@@ -1,0 +1,6 @@
+{
+    "imgur": {
+        "clientId": "89bafc47ed9077d"
+    },
+    "assetMapPath": "./server/config/production/assetMap.json"
+}
